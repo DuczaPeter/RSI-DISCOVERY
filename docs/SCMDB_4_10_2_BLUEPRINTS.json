@@ -1,0 +1,638 @@
+{
+  "build": "4.10.2-live.12881860",
+  "source": "KrovaxCode/SCMDB_DATA",
+  "blueprints": [
+    {
+      "id": "ionburst-s1",
+      "name": "IonBurst",
+      "kind": "power",
+      "size": 1,
+      "grade": "Civilian B",
+      "maker": "Lightning Power Ltd.",
+      "region": "Pyro",
+      "pool": "foxwell_pyro",
+      "seconds": 750,
+      "materials": [
+        [
+          "Torite",
+          0.35
+        ],
+        [
+          "Silicon",
+          0.14
+        ],
+        [
+          "Laranite",
+          0.24
+        ]
+      ],
+      "bpRecordGuid": "85aca18f-43f2-475d-96d3-3c8e506b40a3",
+      "minQuality": 1
+    },
+    {
+      "id": "magnabloom-s1",
+      "name": "MagnaBloom",
+      "kind": "power",
+      "size": 1,
+      "grade": "Civilian B",
+      "maker": "Sakura Sun",
+      "region": "Pyro",
+      "pool": "foxwell_pyro",
+      "seconds": 750,
+      "materials": [
+        [
+          "Torite",
+          0.35
+        ],
+        [
+          "Silicon",
+          0.14
+        ],
+        [
+          "Laranite",
+          0.24
+        ]
+      ],
+      "bpRecordGuid": "91acb06c-7a01-489d-8927-5a841f4c15a6",
+      "minQuality": 1
+    },
+    {
+      "id": "ionsurge-s2",
+      "name": "IonSurge",
+      "kind": "power",
+      "size": 2,
+      "grade": "Civilian B",
+      "maker": "Lightning Power Ltd.",
+      "region": "Pyro",
+      "pool": "foxwell_pyro",
+      "seconds": 1110,
+      "materials": [
+        [
+          "Torite",
+          1.22
+        ],
+        [
+          "Silicon",
+          0.5
+        ],
+        [
+          "Laranite",
+          0.85
+        ]
+      ],
+      "bpRecordGuid": "892b74ea-9651-4b74-bc41-763714c96229",
+      "minQuality": 1
+    },
+    {
+      "id": "radiance-s2",
+      "name": "Radiance",
+      "kind": "power",
+      "size": 2,
+      "grade": "Civilian B",
+      "maker": "Sakura Sun",
+      "region": "Pyro",
+      "pool": "foxwell_pyro",
+      "seconds": 1110,
+      "materials": [
+        [
+          "Torite",
+          1.22
+        ],
+        [
+          "Silicon",
+          0.5
+        ],
+        [
+          "Laranite",
+          0.85
+        ]
+      ],
+      "bpRecordGuid": "35b476f2-8c2f-4e09-aae4-20e4c754c6db",
+      "minQuality": 1
+    },
+    {
+      "id": "ionsurge-pro-s3",
+      "name": "IonSurge Pro",
+      "kind": "power",
+      "size": 3,
+      "grade": "Civilian B",
+      "maker": "Lightning Power Ltd.",
+      "region": "Pyro",
+      "pool": "foxwell_pyro",
+      "seconds": 1650,
+      "materials": [
+        [
+          "Torite",
+          4.3
+        ],
+        [
+          "Silicon",
+          1.7
+        ],
+        [
+          "Laranite",
+          3
+        ]
+      ],
+      "bpRecordGuid": "c851e5ce-1f84-4ae1-a09e-a8f1338e5ef1",
+      "minQuality": 1
+    },
+    {
+      "id": "celestial-s3",
+      "name": "Celestial",
+      "kind": "power",
+      "size": 3,
+      "grade": "Civilian B",
+      "maker": "Sakura Sun",
+      "region": "Pyro",
+      "pool": "foxwell_pyro",
+      "seconds": 1650,
+      "materials": [
+        [
+          "Torite",
+          4.3
+        ],
+        [
+          "Silicon",
+          1.7
+        ],
+        [
+          "Laranite",
+          3
+        ]
+      ],
+      "bpRecordGuid": "29ae5b0d-9fbd-4be5-89da-0b854f5065f8",
+      "minQuality": 1
+    },
+    {
+      "id": "whiterose-s1",
+      "name": "WhiteRose",
+      "kind": "power",
+      "size": 1,
+      "grade": "Civilian A",
+      "maker": "Sakura Sun",
+      "region": "Pyro",
+      "pool": "hh_pyro",
+      "seconds": 780,
+      "materials": [
+        [
+          "Borase",
+          0.35
+        ],
+        [
+          "Laranite",
+          0.14
+        ],
+        [
+          "Bexalite",
+          0.24
+        ]
+      ],
+      "bpRecordGuid": "ea73da29-d597-4930-91ac-846310561bb0",
+      "minQuality": 1
+    },
+    {
+      "id": "lotus-s2",
+      "name": "Lotus",
+      "kind": "power",
+      "size": 2,
+      "grade": "Civilian A",
+      "maker": "Sakura Sun",
+      "region": "Pyro",
+      "pool": "hh_pyro",
+      "seconds": 1140,
+      "materials": [
+        [
+          "Borase",
+          1.22
+        ],
+        [
+          "Laranite",
+          0.5
+        ],
+        [
+          "Bexalite",
+          0.85
+        ]
+      ],
+      "bpRecordGuid": "683c5b10-5dc3-48ee-aeb0-d830e0d398c0",
+      "minQuality": 1
+    },
+    {
+      "id": "tigerlilly-s3",
+      "name": "TigerLilly",
+      "kind": "power",
+      "size": 3,
+      "grade": "Civilian A",
+      "maker": "Sakura Sun",
+      "region": "Pyro",
+      "pool": "hh_pyro",
+      "seconds": 1680,
+      "materials": [
+        [
+          "Borase",
+          4.3
+        ],
+        [
+          "Laranite",
+          1.7
+        ],
+        [
+          "Bexalite",
+          3
+        ]
+      ],
+      "bpRecordGuid": "d2bf9a84-e5fb-4172-8d18-b7a83e8c080f",
+      "minQuality": 1
+    },
+    {
+      "id": "cryo-star-s1",
+      "name": "Cryo-Star",
+      "kind": "cooler",
+      "size": 1,
+      "grade": "Civilian B",
+      "maker": "J-Span",
+      "region": "Nyx",
+      "pool": "hh_nyx",
+      "seconds": 510,
+      "materials": [
+        [
+          "Torite",
+          0.16
+        ],
+        [
+          "Pressurized Ice",
+          0.16
+        ],
+        [
+          "Iron",
+          0.1
+        ]
+      ],
+      "bpRecordGuid": "1239aec1-9d22-4fd8-a694-2eee52243aad",
+      "minQuality": 1
+    },
+    {
+      "id": "flashfreeze-s1",
+      "name": "FlashFreeze",
+      "kind": "cooler",
+      "size": 1,
+      "grade": "Civilian B",
+      "maker": "Lightning Power Ltd.",
+      "region": "Nyx",
+      "pool": "hh_nyx",
+      "seconds": 510,
+      "materials": [
+        [
+          "Torite",
+          0.16
+        ],
+        [
+          "Pressurized Ice",
+          0.16
+        ],
+        [
+          "Iron",
+          0.1
+        ]
+      ],
+      "bpRecordGuid": "b19e0018-91e7-4f53-9d87-4c083131b851",
+      "minQuality": 1
+    },
+    {
+      "id": "endo-s1",
+      "name": "Endo",
+      "kind": "cooler",
+      "size": 1,
+      "grade": "Civilian B",
+      "maker": "Wen/Cassel Propulsion",
+      "region": "Nyx",
+      "pool": "hh_nyx",
+      "seconds": 510,
+      "materials": [
+        [
+          "Torite",
+          0.16
+        ],
+        [
+          "Pressurized Ice",
+          0.16
+        ],
+        [
+          "Iron",
+          0.1
+        ]
+      ],
+      "bpRecordGuid": "f24ec6ba-88fe-44a9-ae11-996385696c8f",
+      "minQuality": 1
+    },
+    {
+      "id": "cryo-star-ex-s2",
+      "name": "Cryo-Star EX",
+      "kind": "cooler",
+      "size": 2,
+      "grade": "Civilian B",
+      "maker": "J-Span",
+      "region": "Nyx",
+      "pool": "hh_nyx",
+      "seconds": 630,
+      "materials": [
+        [
+          "Torite",
+          0.5
+        ],
+        [
+          "Pressurized Ice",
+          0.5
+        ],
+        [
+          "Iron",
+          0.3
+        ]
+      ],
+      "bpRecordGuid": "787f5cf3-cb9f-4811-b991-475b09d2d039",
+      "minQuality": 1
+    },
+    {
+      "id": "fullfrost-s2",
+      "name": "FullFrost",
+      "kind": "cooler",
+      "size": 2,
+      "grade": "Civilian B",
+      "maker": "Lightning Power Ltd.",
+      "region": "Nyx",
+      "pool": "hh_nyx",
+      "seconds": 630,
+      "materials": [
+        [
+          "Torite",
+          0.5
+        ],
+        [
+          "Pressurized Ice",
+          0.5
+        ],
+        [
+          "Iron",
+          0.3
+        ]
+      ],
+      "bpRecordGuid": "571b10ba-8033-4d00-b767-3f2edde7e9e3",
+      "minQuality": 1
+    },
+    {
+      "id": "taiga-s2",
+      "name": "Taiga",
+      "kind": "cooler",
+      "size": 2,
+      "grade": "Civilian B",
+      "maker": "Wen/Cassel Propulsion",
+      "region": "Nyx",
+      "pool": "hh_nyx",
+      "seconds": 630,
+      "materials": [
+        [
+          "Torite",
+          0.5
+        ],
+        [
+          "Pressurized Ice",
+          0.5
+        ],
+        [
+          "Iron",
+          0.3
+        ]
+      ],
+      "bpRecordGuid": "524a5e92-3b86-459f-ac0f-cc4fb96d7577",
+      "minQuality": 1
+    },
+    {
+      "id": "cryo-star-xl-s3",
+      "name": "Cryo-Star XL",
+      "kind": "cooler",
+      "size": 3,
+      "grade": "Civilian B",
+      "maker": "J-Span",
+      "region": "Nyx",
+      "pool": "hh_nyx",
+      "seconds": 810,
+      "materials": [
+        [
+          "Torite",
+          1.64
+        ],
+        [
+          "Pressurized Ice",
+          1.64
+        ],
+        [
+          "Iron",
+          1
+        ]
+      ],
+      "bpRecordGuid": "95fc7cad-58d5-4bc4-b643-c0633c6f2b0e",
+      "minQuality": 1
+    },
+    {
+      "id": "frostbite-s3",
+      "name": "FrostBite",
+      "kind": "cooler",
+      "size": 3,
+      "grade": "Civilian B",
+      "maker": "Lightning Power Ltd.",
+      "region": "Nyx",
+      "pool": "hh_nyx",
+      "seconds": 810,
+      "materials": [
+        [
+          "Torite",
+          1.64
+        ],
+        [
+          "Pressurized Ice",
+          1.64
+        ],
+        [
+          "Iron",
+          1
+        ]
+      ],
+      "bpRecordGuid": "abdb3c60-cdc5-4bd5-bbcc-55da792bc584",
+      "minQuality": 1
+    },
+    {
+      "id": "tige-s1",
+      "name": "Tige",
+      "kind": "radar",
+      "size": 1,
+      "grade": "Military B",
+      "maker": "GNP",
+      "region": "Stanton",
+      "pool": "ston_hh_foxwell_hard",
+      "seconds": 630,
+      "materials": [
+        [
+          "Borase",
+          0.28
+        ],
+        [
+          "Bexalite",
+          0.1
+        ],
+        [
+          "Lindinium",
+          0.1
+        ]
+      ],
+      "bpRecordGuid": "2d85096b-c04e-4771-8f4b-dc16e6ae28a8",
+      "minQuality": 1
+    },
+    {
+      "id": "broadspec-s2",
+      "name": "BroadSpec",
+      "kind": "radar",
+      "size": 2,
+      "grade": "Industrial B",
+      "maker": "Chimera Communications",
+      "region": "Stanton / Pyro / Nyx",
+      "pool": "shubin",
+      "seconds": 690,
+      "materials": [
+        [
+          "Agricium",
+          1.2
+        ],
+        [
+          "Laranite",
+          0.3
+        ],
+        [
+          "Gold",
+          0.3
+        ]
+      ],
+      "bpRecordGuid": "42097046-f08d-4202-aee0-5b5921ccacb9",
+      "minQuality": 1
+    },
+    {
+      "id": "vigilance-s2",
+      "name": "Vigilance",
+      "kind": "radar",
+      "size": 2,
+      "grade": "Military B",
+      "maker": "GNP",
+      "region": "Stanton",
+      "pool": "ston_hh_hard",
+      "seconds": 750,
+      "materials": [
+        [
+          "Borase",
+          1.2
+        ],
+        [
+          "Bexalite",
+          0.3
+        ],
+        [
+          "Lindinium",
+          0.3
+        ]
+      ],
+      "bpRecordGuid": "30c41150-6f82-45b2-82f2-8c5d38648755",
+      "minQuality": 1
+    },
+    {
+      "id": "broadspec-s3",
+      "name": "BroadSpec",
+      "kind": "radar",
+      "size": 3,
+      "grade": "Industrial B",
+      "maker": "Chimera Communications",
+      "region": "Stanton / Pyro / Nyx",
+      "pool": "shubin",
+      "seconds": 870,
+      "materials": [
+        [
+          "Agricium",
+          2
+        ],
+        [
+          "Laranite",
+          0.8
+        ],
+        [
+          "Gold",
+          0.8
+        ]
+      ],
+      "bpRecordGuid": "394c971b-2056-4c5b-9503-0c6efbe595ff",
+      "minQuality": 1
+    },
+    {
+      "id": "devoue-s3",
+      "name": "Devoue",
+      "kind": "radar",
+      "size": 3,
+      "grade": "Military B",
+      "maker": "GNP",
+      "region": "Stanton",
+      "pool": "ston_hh_hard",
+      "seconds": 930,
+      "materials": [
+        [
+          "Borase",
+          2
+        ],
+        [
+          "Bexalite",
+          0.8
+        ],
+        [
+          "Lindinium",
+          0.8
+        ]
+      ],
+      "bpRecordGuid": "f7140bab-c85f-48e5-bb03-a4d560130545",
+      "minQuality": 1
+    }
+  ],
+  "pools": {
+    "foxwell_pyro": {
+      "name": "BP_REWARDS_PyroFoxwellEasy",
+      "owner": "Foxwell Enforcement",
+      "hu": "Pyro: Foxwell Enforcement – Yellow / Orange / Red Defend vagy Protect Fuel Tanks and Escort Employees BP-változatok; a jutalmak poolból kerülnek ki.",
+      "en": "Pyro: Foxwell Enforcement – Yellow / Orange / Red Defend or Protect Fuel Tanks and Escort Employees BP variants; rewards are drawn from a pool."
+    },
+    "hh_pyro": {
+      "name": "BP_REWARDS_PyroHeadhuntersEasy",
+      "owner": "Headhunters",
+      "hu": "Pyro: Headhunters – Keep [LOCATION] Safe, Provide Protection, Secure, Defend, Guard vagy Stop Rival Attack; megfelelő rang és változat szükséges.",
+      "en": "Pyro: Headhunters – Keep [LOCATION] Safe, Provide Protection, Secure, Defend, Guard or Stop Rival Attack; suitable rank and variant are required."
+    },
+    "hh_nyx": {
+      "name": "BP_REWARDS_NyxHeadhuntersEasy",
+      "owner": "Headhunters",
+      "hu": "Nyx: Headhunters – a hat Defend / Guard / Keep Safe / Provide Protection / Secure / Stop Rival Attack BP-küldetés valamelyik megfelelő változata.",
+      "en": "Nyx: Headhunters – eligible variants of six Defend / Guard / Keep Safe / Provide Protection / Secure / Stop Rival Attack blueprint missions."
+    },
+    "ston_hh_foxwell_hard": {
+      "name": "BP_REWARDS_StantonHeadhuntersHard + BP_REWARDS_StantonFoxwellHard",
+      "owner": "Headhunters / Foxwell Enforcement",
+      "hu": "Stanton: Headhunters magasabb rangú Defend / Guard / Stop Rival Attack VAGY Foxwell magasabb nehézségű kísérő-védelmi contractok.",
+      "en": "Stanton: higher-rank Headhunters Defend / Guard / Stop Rival Attack OR higher-difficulty Foxwell escort-defense contracts."
+    },
+    "ston_hh_hard": {
+      "name": "BP_REWARDS_StantonHeadhuntersHard",
+      "owner": "Headhunters",
+      "hu": "Stanton: Headhunters – magasabb rangú Defend [LOCATION] From Mercs / Guard [LOCATION] From Rivals / Stop Rival Attack at [LOCATION].",
+      "en": "Stanton: Headhunters – higher-rank Defend [LOCATION] From Mercs / Guard [LOCATION] From Rivals / Stop Rival Attack at [LOCATION]."
+    },
+    "shubin": {
+      "name": "BP_REWARDS_ShubinRank2to3",
+      "owner": "Shubin Interstellar",
+      "hu": "Shubin Interstellar – Lrg. Purchase Order: Ship Mined Ore, Sr. Contractor szint környékén; a BP pool terület és változat szerint ellenőrzendő.",
+      "en": "Shubin Interstellar – Lrg. Purchase Order: Ship Mined Ore, around Sr. Contractor standing; pool varies by location and mission variant."
+    }
+  }
+}
